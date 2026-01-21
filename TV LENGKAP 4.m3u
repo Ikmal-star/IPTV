@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/pokemon_channel_logo_by_jormxdos_dfgdttq-fullview.png?updatedAt=1762407115133",POKEMON TV CHANNEL HD (PLUTO TV)
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/IMG_20260121_102841.png",POKEMON TV CHANNEL HD (PLUTO TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/BBC_One_logo_2021.svg.png?updatedAt=1759970693422",BBC ONE HD
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
