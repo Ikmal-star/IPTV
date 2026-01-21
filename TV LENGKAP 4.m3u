@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,POKEMON TV CHANNEL HD (PLUTO TV)
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/pokemon_channel_logo_by_jormxdos_dfgdttq-fullview.png?updatedAt=1762407115133",POKEMON TV CHANNEL HD (PLUTO TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/BBC_One_logo_2021.svg.png?updatedAt=1759970693422",BBC ONE HD
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
@@ -75,3 +75,5 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/BBCN.webp" group-title="X bbc news",BBC NEWS USA
 https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/KBS_World_(2009).svg.png",KBS WORLD
+https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2ODk5MjA3M319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=UBWfIBBuUwXQF0Ri0AS8RHivGdpkkZ5gCa6BNoxFVQBAnWSqNDZHl-iMCTc82figkg2i6MZT8kgQKfSEwwpAcqy3DmoaP57WBu6RUhNkt~qBWgwpTmrHz2n6kgbQxsj~AH95mLkKK3j0EWBvS3TK~76omaJx0rGjTt56OqSphpY2~DZsaFsRu0kyOezHD4bVaBOcGQ9aLIR2hvUdcPvjCMC-HIg7MpqNDjGCQxQg8tm7D4yMSWlVS7ZVXe4b1wT~vR6pqIMH0Ix5X-iJy4eh4Lh2fbkc1I-FYOEctZPsnEuNbaB1a6HyVxdHYIE9BIih8YpmvDdXt~etlMHv1Ikx-Q__
