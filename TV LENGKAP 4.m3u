@@ -4,7 +4,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/BBC_One_logo_2021.svg.png?updatedAt=1759970693422",BBC ONE HD
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/BBC_Two_logo_2021.svg.png?updatedAt=1759970693366",BBC TWO HD
-https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+https://edge1352.filmon.com/live/29.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe82da9a299ff32de5e6b715b2c5d87ba098f17ae4022e88492ba36f73e8f4a976ceb36092cb454c6e91506028a2fb60f057f1d8725cf53ca2e25bf28944425ab89bcab4078c93dac700132514b585f1bf629160c1ac68f7e9f397d188e14a65c9c8245709401e592f0062900ad390f8e5ab99fa5590b89a91ebc88118c34b8ce04363dd1260e8cd057ea577e6950c4459
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CBBC__282023_29_II.png?updatedAt=1759975145964",BBC 3/CBBC HD
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CBeebies_2023.svg.png?updatedAt=1759975007204",BBC 4/CBEEBIES HD
