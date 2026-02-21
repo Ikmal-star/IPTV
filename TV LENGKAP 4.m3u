@@ -40,7 +40,7 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 #EXTINF:-1 tvg-id="CNBCEurope.uk@HD" tvg-logo="https://ik.imagekit.io/ozvqgqjed/IMG_20251230_081528.png" group-title="Cnbc",CNBC EUROPE HD
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/IMG_20251230_082654.png" group-title="Cnbc",CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+https://wahyu1ptv.pages.dev/CNBC-HD.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg@SD" tvg-logo="https://ik.imagekit.io/ozvqgqjed/IMG_20251230_081528.png" group-title="Cnbc",CNBC ASIA
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/IMG_20251230_081528.png" group-title="Cnbc",CNBC USA
@@ -48,11 +48,11 @@ https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CNN.svg.png?updatedAt=1759970196839" group-title="Cnn",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8#https://cnn-cnninternational-1-eu.rakuten.wurl
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CNN_Indonesia_logo_(2023).svg.png?updatedAt=1760114374811" group-title="Cnn",CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+https://wahyu1ptv.pages.dev/CNN-HD.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CNN.svg.png?updatedAt=1759970196839" group-title="Cnn",CNN EUROPE HD
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CNN.svg.png?updatedAt=1759970196839" group-title="Cnn",CNN ASIA PACIFIC
-https://live-th10.myjktv.com/watch/live.m3u8?video=cnn_kr_540&sid=0PbcaSyn5WH52ys7jhycxorVM6OdOl95hV8Ylk1E&secret=e632f13997314d985da8595cc8b0d1e3&time=1768230445
+https://live-th10.myjktv.com/watch/live.m3u8?video=cnn_kr_540&sid=q4HV3dvJmmhuAEiJ1SaCfappJMauuDfQoAtZebzS&secret=eb9ba24afa28ce21a6239133a68641e0&time=1770697676
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CNN.svg.png?updatedAt=1759970196839" group-title="Cnn",CNN USA
 https://fl1.moveonjoy.com/CNN/index.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/NHK_World.svg.png?updatedAt=1759971099826" group-title="Nhk world japan",NHK WORLD JAPAN SD
@@ -64,16 +64,14 @@ https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/WION_news_Logo.svg.png?updatedAt=1759971099833" group-title="Wion",WION (WORLD IS ONE) HD
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/BBC_World_News_2022.svg.png?updatedAt=1759971099914" group-title="X bbc news",BBC WORLD NEWS
-https://live-th10.myjktv.com/watch/live.m3u8?video=bbc_kr_540&sid=WX6ASNwK8AGK77et7ckpQwVaBEIRrPVZa5UZG8FG&secret=6945ea83cec00696963896cad4b29ade&time=1768178472
+https://live-th10.myjktv.com/watch/live.m3u8?video=bbc_kr_540&sid=JhQg9J2oCc1ZXlwBZXjhvFQKAlLnfjG8sdpqfJf4&secret=3e9951f8aa73166cc5daf0d52d1aef21&time=1770697690
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/BBC_World_News_2022.svg.png?updatedAt=1759971099914" group-title="X bbc news",BBC WORLD NEWS 2
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/IMG_20251210_130328.png" group-title="X bbc news",BBC NEWS EUROPE HD
-https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/IMG_20251210_130328.png" group-title="X bbc news",BBC NEWS EUROPE
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/BBCN.webp" group-title="X bbc news",BBC NEWS SD
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/IMG_20251210_130328.png" group-title="X bbc news",BBC NEWS HD
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/BBCN.webp" group-title="X bbc news",BBC NEWS USA
 https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/KBS_World_(2009).svg.png",KBS WORLD
-https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2OTIxNjU4NH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=XpiRNf3D9Lt8kjkgWTuNKsv02K26Hb8lQg0gfvWucARjU5zcLyvbTM1B8F2xYGyEntoRM9xXFBSW5qmI2P42g57AtIXifCvDCz3sNjS-F27JIrVqXROqNwayKbehr0K-aY4qammo8i-sgB5TD2ZdzTrQMpgntjC5VMMLL~6kbquUtv6FFUv-~UMgac7iL0FocfyJMsrk30j6kF1pMdrPigPz5gdl9vZwjsLvdvTv-zvCMfGjb017YakZ0psj3baieP97PaC-wOSQGGzPFmq3ejP0XChyOttaqyHthWpgmdAE1k2D~~rxDa48VZN5ZPqpSSBml3mm0Tx2yA~3GAMJ9w__
