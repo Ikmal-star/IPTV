@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/IMG_20260121_102841.png?updatedAt=1768966354544",POKEMONTV CHANNEL HD (PLUTOTV)
+https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/BBC-Earth-YouTube-Stacked-Mobile.png?updatedAt=1759973201448",BBC EARTH
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CNA_new_logo.svg.png?updatedAt=1759971099778",CNA (CHANNEL NEWS ASIA)
+https://op-flashcon-digdayahd-1.dens.tv/h/h29/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/images%20(6).jpeg?updatedAt=1759971099815",EURONEWS
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/France24.png?updatedAt=1759971099850",FRANCE 24 ENG
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/Russia-today-logo.svg.png?updatedAt=1759971100013",RT (RUSSIAN TODAY)
+https://op-flashcon-digdayahd-1.dens.tv/h/h226/02.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/330px-Deutsche_Welle_symbol_2012.svg.png?updatedAt=1759971099734",DW ENG HD
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/Arirang.svg.png?updatedAt=1759971099786",ARIRANG
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/Aljazeera_eng.png?updatedAt=1759971099942",AL JAZEERA ENG
+https://op-flashcon-digdayahd-1.dens.tv/h/h43/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/TRT_World.svg.png?updatedAt=1759970222505",TRT WORLD
+https://op-flashcon-digdayahd-1.dens.tv/h/h156/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/Logo_of_the_Korean_Central_Television.svg.png?updatedAt=1769188695355",KOREAN CENTRAL TELEVISION
+https://kctv.koryofront.org/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/vvcemcZDle-VIETNAMTODAY-KENHVTVgo-150x90copy%20(1).webp?updatedAt=1762418074155",VIETNAM TODAY
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/Dragon_TV_2011_3D_symbol.webp",SHANGHAI DRAGON TELEVISION
+https://op-flashcon-digdayahd-1.dens.tv/h/h05/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/TVRI-World.svg%20(1).png",TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/RTP_Mundo.svg%20(1).png",RTP MUNDO ASIA
+https://op-flashcon-digdayahd-1.dens.tv/s/s38/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/Discovery_Asia_logo%20(1).webp",DISCOVERY ASIA
+https://cdn.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/76l9MBw70irbZQH1nbqVzxiG02QKnlTMGI9rnzPNCGa9lRAgOUovFXetIltqdDQumzlXaLFhQ59LgCQSHJKZSIUkDjkQxs5X8RIpK2uhw5efoeq-GlGlwiEEoOXOnlezk0dDLXtXdb7a6gd_Oua32w.png",JEI 재능 TV
+https://k227.jk-cdn.com/watch/live.m3u8?video=jei_jenung_540&sid=8fbGx8lTyCbohFr9Z5zuTdBrAGtvAU2XJIzingTV&secret=0eb7bcf57e2c92dac15a6387705f4b74&time=1777356757
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/vRYbigW5lrGGfy8F4xAx6-FSYf9LMa5P_Ay2Npp9iA_xobJzycDpyFHN-LCbRdyNiYR_UrZzxdkYnKweoH9mlDBgJ8ll-TF6sxdzQFzOExFGxSYq3v6JMa3W1VDA7EMff2t8lna9BID8ZEKLj_DEZA.png",YONHAP NEWS TV (연합뉴스TV)
+https://k227.jk-cdn.com/watch/live.m3u8?video=newsy_540&sid=rsowdOG92QO92MbZiWc0PzO6Uk3oCjy4janihSi0&secret=b722fa2a71ac676328b44797c54ca77e&time=1777431380
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/TV5Monde_Asie_2021.webp",TV5 MONDE
+https://op-flashcon-digdayahd-1.dens.tv/h/h312/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/TVBS_Asia_logo_2017.png",TVBS ASIA
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/toppng.com-rai-covers-rio-2016-with-brainstorms-virtual-studio-rai-italy-logo-1051x457.png",RAI ITALIA INTERNATIONAL
+https://op-flashcon-digdayahd-1.dens.tv/h/h11/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/Fox_News_Channel_logo.svg.png?updatedAt=1759971099870",FOX NEWS
+http://206.212.244.63/67/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/500px-Africanews._alternative_logo_2016.png",AFRICANEWS ENG
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:-1,WION
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/main.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/SBS_%ED%9D%B0%EC%83%89%EB%A1%9C%EA%B3%A0%20(1).png" group-title="ATV KOREA",SBS
+https://k227.jk-cdn.com/watch/live.m3u8?video=sbs_540&sid=H6zAvykWzNPzqenNrWdZmRqhiINA3UHL06aFvox8&secret=58a307751ed69df1db3af163fe6ea8b6&time=1784906546
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/KBS_1_logo.svg.png?updatedAt=1777465396643" group-title="ATV KOREA",KBS 1
+https://k227.jk-cdn.com/watch/live.m3u8?video=kbs1_540&sid=ge04aN0hpTabGmZENqPlf8FzBPfNz5H560ZvTedP&secret=4910a50f83e242790d203bf116582a8e&time=1777458182
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/KBS_2_logo.svg.png?updatedAt=1777464527099" group-title="ATV KOREA",KBS 2
+https://k227.jk-cdn.com/watch/live.m3u8?video=kbs2_540&sid=tjGi53pgyHuEcPZIGI4VvV1fVzEjqttln0g7scvb&secret=34f8c8ff8634fb98d5904bcdecff19be&time=1777458260
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/KBS_DRAMA.svg.png" group-title="ATV KOREA",KBS DRAMA
+https://k227.jk-cdn.com/watch/live.m3u8?video=kbs_drama_540&sid=tWPqu7v3WKpbJ17Xiqlz46mgLrlTliPCYzicTcUV&secret=bde12746801f24d9655b500facf16c5c&time=1777458305
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/EBS_1TV_Logo.svg.png?updatedAt=1777464527494" group-title="ATV KOREA",EBS 1
+https://k227.jk-cdn.com/watch/live.m3u8?video=ebs_1_540&sid=RzH53L5eheEwMXpxKlHdJiH2yPDK9qAlCT92U2dZ&secret=168a51237de33f0f452ec1236d289898&time=1778344710
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/EBS_2_logo.svg.png" group-title="ATV KOREA",EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/EBS_KIDS.svg.png" group-title="ATV KOREA",EBS KIDS
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/EBS_English_logo.svg.png" group-title="ATV KOREA",EBS ENGLISH
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://ik.imagekit.io/ozvqgqjed/50-504022_bloomberg-logo-white-transparent.png" group-title="BLOOMBERG",BLOOMBERG
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/50-504022_bloomberg-logo-white-transparent.png" group-title="BLOOMBERG",BLOOMBERG ASIA
+https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/50-504022_bloomberg-logo-white-transparent.png" group-title="BLOOMBERG",BLOOMBERG USA
+http://206.212.244.63/22/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CCTV4_HD.png?updatedAt=1784512392658" group-title="CHINA CENTRAL TELEVISION",CCTV-4 WORLD
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/Dewatermark_1784452263920.jpeg.png" group-title="CHINA CENTRAL TELEVISION",CCTV-11 ARTS & CULTURE
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/Dewatermark_1784452295419.jpeg.png" group-title="CHINA CENTRAL TELEVISION",CCTV-13 NEWS 24
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/1000054129-removebg-preview.png" group-title="CNBC",NIKKEI CNBC
+https://cnbc-live20.id200004.jocdn.jp/live-ch01/livestream/llhls.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg@SD" tvg-logo="https://ik.imagekit.io/ozvqgqjed/BackgroundEraser_20260712_153614194.png" group-title="CNBC",CNBC ASIA/WORLD
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/IMG_20251230_081528.png" group-title="CNBC",CNBC EUROPE
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/IMG_20251230_081528.png" group-title="CNBC",CNBC USA
+http://41.205.93.154/CNBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CNN.svg.png?updatedAt=1759970196839" group-title="CNN",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8#https://cnn-cnninternational-1-eu.rakuten.wurl
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CNN.svg.png?updatedAt=1759970196839" group-title="CNN",CNN ASIA PACIFIC
+https://live-th10.myjktv.com/watch/live.m3u8?video=cnn_kr_540&sid=PTcmYbUe41A0phCeb84LSBBXoLNlb1ObqW9g4kjE&secret=67ac8fd65d66e1489ccea8c91871431c&time=1789303072
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CNN.svg.png?updatedAt=1759970196839" group-title="CNN",CNN INTERNATIONAL
+http://41.205.77.102/CNN/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CNN.svg.png?updatedAt=1759970196839" group-title="CNN",CNN USA
+http://41.205.93.154/CNN/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CGTN.svg.png?updatedAt=1759971099922" group-title="D CGTN",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/CGTN_Documentary_logo.png?updatedAt=1776475819697" group-title="D CGTN",CGTN DOCUMENTARY
+https://op-flashcon-digdayahd-1.dens.tv/h/h04/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/NHK_World.svg.png?updatedAt=1759971099826" group-title="NHK WORLD JAPAN",NHK WORLD JAPAN
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/lv_0_20260411084037.jpg" group-title="NHK WORLD JAPAN",NHK WORLD PREMIUM
+https://live-th10.myjktv.com/watch/live.m3u8?video=nhk_wold_540&sid=oOmgvQe2bkn9TNlHxGnTzrjiXeEpIQJ0Q7t3yCIu&secret=6dee359c879f1b55baa01072f8da3916&time=1789302914
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/NHK_World.svg.png?updatedAt=1759971099826" group-title="NHK WORLD JAPAN",NHK WORLD JAPAN HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/NHK_World.svg.png?updatedAt=1759971099826" group-title="NHK WORLD JAPAN",NHK WORLD JAPAN SD
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/02.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/Phoenix_InfoNews.svg.png" group-title="PHOENIX",PHOENIX INFO NEWS
+https://op-flashcon-digdayahd-1.dens.tv/s/s23/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/Phoenix_Chinese.svg.png" group-title="PHOENIX",PHOENIX CHINESE
+https://op-flashcon-digdayahd-1.dens.tv/h/h157/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/20220322151441!%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png" group-title="QURAN",AL QUR'AN AL KAREEM TV SD
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/20220322151441!%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png" group-title="QURAN",AL QUR'AN AL KARREM TV HD
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/20220322151441!%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png" group-title="QURAN",AL QUR'AN AL KAREEM TV SD 2
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/WION_news_Logo.svg.png?updatedAt=1759971099833" group-title="WION",WION (WORLD IS ONE) SD
+https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/WION_news_Logo.svg.png?updatedAt=1759971099833" group-title="WION",WION (WORLD IS ONE) HD2
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/master.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/WION_news_Logo.svg.png?updatedAt=1759971099833" group-title="WION",WION (WORLD IS ONE) HD
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific" tvg-name="BBC News Asia Pacific" tvg-logo="https://ik.imagekit.io/ozvqgqjed/BBC_World_News_2022.svg.png?updatedAt=1759971099914" group-title="X BBC NEWS",BBC WORLD NEWS
+https://live-th10.myjktv.com/watch/live.m3u8?video=bbc_kr_540&sid=1HkCFgmSnXr5z10SxG3oTfeRpPnLzWWQDN13Zb9s&secret=dc8635b822c5f839bc60e92684083cc7&time=1789303080
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/IMG_20251210_130328.png" group-title="X BBC NEWS",BBC NEWS EUROPE
+http://stream.mcquack.net/85/index.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/BBCN.webp" group-title="X BBC NEWS",BBC NEWS SD
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/IMG_20251210_130328.png" group-title="X BBC NEWS",BBC NEWS HD
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ozvqgqjed/BBCN.webp" group-title="X BBC NEWS",BBC NEWS USA
+http://206.212.244.63/14/index.m3u8
